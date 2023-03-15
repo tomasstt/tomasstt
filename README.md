@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomasstt
 - 👀 I’m interested in front-end 
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AMOS
 - 📫 How to reach me ...
 
 <!---
