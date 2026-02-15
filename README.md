@@ -1,7 +1,7 @@
 - 👋 Hi
 - 👀 I’m interested in front-end 
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on AMOS
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
